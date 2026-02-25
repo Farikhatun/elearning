@@ -1,11 +1,11 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyBFK8buuwET0spxnVccuApNg5sulQbuv5w",
+    authDomain: "elearning-c81cb.firebaseapp.com",
+    projectId: "elearning-c81cb",
+    storageBucket: "elearning-c81cb.firebasestorage.app",
+    messagingSenderId: "48410409495",
+    appId: "1:48410409495:web:bda34b8da5823d9ce67a52"
 };
 
 // Initialize Firebase
@@ -31,4 +31,5 @@ const defaultConfig = {
     accent_color: '#3B82F6',
     background_color: '#F5F7FA',
     text_color: '#1F2937'
+
 };
